@@ -1,28 +1,27 @@
+## Insight. Applied Mathematics Research Club
+
 <table>
   <tr>
     <td width="240" valign="top" align="center">
-      <img src="kn_logo.png" alt="Insight. Applied Mathematics Research Club Logo" width="200">
+      <img src="kn_logo.png" alt="Insight. Applied Mathematics Research Club Logo" width="210">
     </td>
     <td valign="top">
-      <h2>Insight. Applied Mathematics Research Club</h2>
       <p>
         Insight. is a student research club at the
         <a href="https://uz.zgora.pl/">University of Zielona Gora</a>, operating within the
         <a href="https://wnsp.uz.zgora.pl/">Faculty of Exact and Natural Sciences</a>, formerly
-        <em>Faculty of Mathematics, Computer Science and Econometrics</em>. We bring together students interested in
-        applied mathematics, statistics, data analysis, and programming.
+        <em>Faculty of Mathematics, Computer Science and Econometrics</em>.
       </p>
       <p>
-        The club grew out of participation in the 2023 School of Mathematical Modeling. Since then, we have been
-        building projects, sharing knowledge, and exploring how mathematical methods can be used to solve real problems.
-      </p>
-      <p>
-        We work under the supervision of Dr Jacek Bojarski and Dr Maciej Niedziela. Our goal is to make mathematics
-        practical, collaborative, and visible through research, workshops, and open-source projects.
+        We bring together students interested in applied mathematics, statistics, data analysis, and programming.
       </p>
     </td>
   </tr>
 </table>
+
+The club grew out of participation in the 2023 School of Mathematical Modeling. Since then, we have been building projects, sharing knowledge, and exploring how mathematical methods can be used to solve real problems.
+
+We work under the supervision of Dr Jacek Bojarski and Dr Maciej Niedziela. Our goal is to make mathematics practical, collaborative, and visible through research, workshops, and open-source projects.
 
 ## What we do
 
