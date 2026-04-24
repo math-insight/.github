@@ -1,5 +1,34 @@
-![Insight. Applied Mathematics Research Club Logo](kn_logo.png)
+<table>
+  <tr>
+    <td width="240" valign="top" align="center">
+      <img src="kn_logo.png" alt="Insight. Applied Mathematics Research Club Logo" width="200">
+    </td>
+    <td valign="top">
+      <h2>Insight. Applied Mathematics Research Club</h2>
+      <p>
+        Insight. is a student research club at the
+        <a href="https://uz.zgora.pl/">University of Zielona Gora</a>, operating within the
+        <a href="https://wnsp.uz.zgora.pl/">Faculty of Exact and Natural Sciences</a>, formerly
+        <em>Faculty of Mathematics, Computer Science and Econometrics</em>. We bring together students interested in
+        applied mathematics, statistics, data analysis, and programming.
+      </p>
+      <p>
+        The club grew out of participation in the 2023 School of Mathematical Modeling. Since then, we have been
+        building projects, sharing knowledge, and exploring how mathematical methods can be used to solve real problems.
+      </p>
+      <p>
+        We work under the supervision of Dr Jacek Bojarski and Dr Maciej Niedziela. Our goal is to make mathematics
+        practical, collaborative, and visible through research, workshops, and open-source projects.
+      </p>
+    </td>
+  </tr>
+</table>
 
-The "Insight." Applied Mathematics Research Club at the [University of Zielona Gora](https://uz.zgora.pl/) brings together students of various majors from the [Faculty of Mathematics, Computer Science and Econometrics](https://wmie.uz.zgora.pl/). Inspired by participation in the 2023 School of Mathematical Modeling, members of the circle are dedicated to development in the fields of mathematics, statistics, data analysis and programming. Under the mentorship of PhD. Jacek Bojarski and PhD. Maciej Niedziela, members are dedicated to sharing knowledge, analyzing mathematical problems and creating innovative solutions. Our goal is to inspire the discovery of mathematics and demonstrate the value of data analysis.
+## What we do
 
-You can find more info on [mathinsight.xyz](mathinsight.xyz).
+- mathematical modeling and data analysis
+- programming and research projects
+- knowledge-sharing within the student community
+- interdisciplinary collaboration across majors
+
+Learn more at [mathinsight.xyz](https://mathinsight.xyz/).
