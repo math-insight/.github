@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="240" valign="top" align="center">
-      <img src="kn_logo.png" alt="Insight. Applied Mathematics Research Club Logo" width="210">
+      <img src="https://raw.githubusercontent.com/math-insight/.github/main/profile/kn_logo.png" alt="Insight. Applied Mathematics Research Club Logo" width="210">
     </td>
     <td valign="top">
       <p>
