@@ -30,4 +30,4 @@ We work under the supervision of Dr Jacek Bojarski and Dr Maciej Niedziela. Our 
 - knowledge-sharing within the student community
 - interdisciplinary collaboration across majors
 
-Learn more at [mathinsight.xyz](https://mathinsight.xyz/).
+Learn more at [math-insight.github.io](https://math-insight.github.io/).
