@@ -1,0 +1,15 @@
+name: "Propozycja poprawki"
+description: "Zaproponuj usprawnienie kodu, dokumentacji lub utrzymania."
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: "Co warto poprawić i dlaczego?"
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: "Proponowane rozwiązanie"
+      description: "Jeśli masz pomysł, opisz go. Możesz też wskazać alternatywy."
+
